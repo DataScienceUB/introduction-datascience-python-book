@@ -1,7 +1,7 @@
 # Introduction to Data Science
 ## A Python Approach to Concepts, Techniques and Applications
 
-This repository is part of the boook: "Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications"
+This repository is part of the book: "Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications"
 
 http://www.springer.com/gp/book/9783319500164
 
