@@ -6,4 +6,4 @@ docker run -it --rm -v `pwd`:/home/jovyan/ -p 8888:8888 jupyter/datascience-note
 
 
 # see https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook
-# for further options with this docker container
+# for further options with this docker container 
